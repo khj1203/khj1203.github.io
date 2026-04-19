@@ -15,10 +15,5 @@
 </body>
 </html>
 
-body {
-    background-color: lightblue;
-}
-p {
-    color: navy;
-    font-size: 20px;
-}
+body {background-color: lightblue;}
+p {color: navy;font-size: 20px;}
