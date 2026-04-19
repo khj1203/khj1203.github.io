@@ -14,3 +14,11 @@
   <p>과제: github.io 페이지 만들기</p>
 </body>
 </html>
+
+body {
+    background-color: lightblue;
+}
+p {
+    color: navy;
+    font-size: 20px;
+}
